@@ -32,7 +32,7 @@ Hey My Name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>SQL Server</strong>
+        <span><strong>SQLServer</strong>
         </span><br>
         <img height="64px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
       </td>
