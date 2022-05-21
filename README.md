@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'm looking forward to learn new skills and add them in the list.
+Hey My name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'm looking forward to learn new skills and add them in the list.
 
 ## Working with
 <table>
