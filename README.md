@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" height"30px">, I'm [Lam!](https://github.com/truonglam83)!!
+## Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" height="30px">, I'm [Lam!](https://github.com/truonglam83)!!
 
 </h2>
 
