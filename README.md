@@ -13,12 +13,8 @@ Hey My name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'
 <!--   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>𝗛𝗧𝗠𝗟/CSS</span><br>
+        <img height="64px" src="[https://cdn.svgporn.com/logos/html-5.svg](https://banner2.cleanpng.com/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg)">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br>
