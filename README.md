@@ -13,8 +13,8 @@ Hey My name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟/CSS</span><br>
-        <img height="64px" src="https://banner2.cleanpng.com/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg">
+        <span>**Basic Web Dev**</span><br>
+        <img height="64px" src="https://banner2.cleanpng.com/20180820/rik/kisspng-website-development-javascript-html5-css3-cascadin-appload-comprehensive-software-and-mobile-app-de-5b7b834dcf68a2.0627599615348211978496.jpg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br>
