@@ -9,7 +9,7 @@
 Hey My name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'm looking forward to learn new skills and add them in the list.
 
 ## Working with
-<table>
+<!-- <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -69,7 +69,7 @@ Hey My name is Truong Lam, I'm a student at UIT. I'm a Beginner Developer and i'
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 <h1 align="center">
